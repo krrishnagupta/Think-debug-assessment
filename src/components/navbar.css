@@ -1,0 +1,26 @@
+.header {
+  background: #fff;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: orange;
+}
+
+
+.search {
+  width: 40%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.header-icons span {
+  margin-left: 20px;
+  cursor: pointer;
+}
